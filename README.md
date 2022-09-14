@@ -14,6 +14,16 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irving-Develops&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
+
+```text
+CSS          1 hr 36 mins    ███████████░░░░░░░░░░░░░░   44.45 %
+JavaScript   1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.33 %
+JSON         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
