@@ -1,5 +1,17 @@
 ### Hi there, I'm Irving
-![Linkedin](https://img.shields.io/badge/-linkedin%20-0A66C2?logo=linkedin&style=flat-square)
+<a href="https://www.linkedin.com/in/irving-arreola-palacios-5bb10414a/">![Linkedin](https://img.shields.io/badge/-linkedin%20-0A66C2?logo=linkedin&style=flat-square) </a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Irving-Develops}.${Irving-Develops})
+
+I am a full-stack engineer! I love eating, taking naps and gaming. 
+As a software engineer, I enjoy finding creative solutions to pesty bugs and creating intuitive and clean websites.
+
+Talking about personal stuff:
+- 🔭 I’m currently working on cleaning up my projects
+- 🌱 I’m currently learning how to implement websockets for live chat
+- 🤔 I’m looking for a new position in software
+- 💬 Ask me about anything, I'd be happy to help
+- 📫 How to reach me: iarreolapalacios@gmail.com
+- ⚡ Fun fact: 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +24,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-ExpressJS%20-000000?logo=express&style=for-the-badge)
-![Node](https://img.shields.io/badge/-NodeJs%20-339933?logo=node-dot-js&style=for-the-badge)
 
 📈 My GitHub Stats:
 
