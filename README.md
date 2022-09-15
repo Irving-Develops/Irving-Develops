@@ -7,12 +7,14 @@ As a software engineer, I enjoy finding creative solutions to pesty bugs and cre
 
 Talking about personal stuff:
 - 🔭 I’m currently working on cleaning up my projects
-- 🌱 I’m currently learning how to implement websockets for live chat
+- 🌱 I’m currently learning how to implement websockets for live chat.  
 - 🤔 I’m looking for a new position in software
 - 💬 Ask me about anything, I'd be happy to help
 - 📫 How to reach me: iarreolapalacios@gmail.com
 - ⚡ Fun fact: 
 
+
+Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
