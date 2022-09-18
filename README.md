@@ -36,8 +36,10 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-CSS          52 mins         █████████████▓░░░░░░░░░░░   54.95 %
-JavaScript   43 mins         ███████████▒░░░░░░░░░░░░░   45.05 %
+CSS          17 mins         ███████████████░░░░░░░░░░   59.70 %
+Text         8 mins          ███████░░░░░░░░░░░░░░░░░░   28.58 %
+HTML         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
