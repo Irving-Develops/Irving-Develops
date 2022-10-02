@@ -36,7 +36,8 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       13 mins         ██████████████████████▓░░   90.85 %
+JavaScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
 ```
 
 <!--END_SECTION:waka-->
