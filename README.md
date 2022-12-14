@@ -36,10 +36,7 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Python   19 mins         █████████████▓░░░░░░░░░░░   55.11 %
-Bash     6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-JSON     6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Docker   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
