@@ -36,10 +36,7 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Docker     5 mins          ███████████████████▓░░░░░   78.02 %
-Markdown   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Docker   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
