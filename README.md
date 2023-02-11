@@ -36,9 +36,7 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 20 mins    █████████████████████████   99.77 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   46 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
