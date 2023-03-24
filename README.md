@@ -36,9 +36,7 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 5 mins    █████████████████████▓░░░   87.02 %
-CSS          17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
