@@ -32,14 +32,6 @@ Technologies:
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Irving-Develops&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irving-Develops&theme=tokyonight&hide_border=true)
 
 
-📊 This week, I've spent my time on: 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **Irving-Develops/Irving-Develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
