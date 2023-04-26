@@ -32,6 +32,16 @@ Technologies:
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Irving-Develops&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irving-Develops&theme=tokyonight&hide_border=true)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   10 hrs 13 mins  ██████████████████▓░░░░░░   74.83 %
+JavaScript   2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+TSConfig     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+```
+
 <!--END_SECTION:waka-->
 
 
