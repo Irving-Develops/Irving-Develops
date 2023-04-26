@@ -29,9 +29,7 @@ Technologies:
 
 📈 My GitHub Stats:
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Irving-Develops&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irving-Develops&theme=tokyonight)]
-
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Irving-Develops&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irving-Develops&theme=tokyonight&hide_border=true)
 
 <!--
 **Irving-Develops/Irving-Develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
