@@ -34,10 +34,9 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 10 mins    ████████████████████████▓   98.00 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   13 mins         ███████████████████████░░   92.34 %
+Markdown     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
