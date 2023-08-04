@@ -34,11 +34,8 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         19 mins         ██████████▓░░░░░░░░░░░░░░   43.33 %
-JavaScript   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-JSON         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Python       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+YAML         19 mins         ███████████████░░░░░░░░░░   59.37 %
+JavaScript   13 mins         ██████████░░░░░░░░░░░░░░░   40.63 %
 ```
 
 <!--END_SECTION:waka-->
