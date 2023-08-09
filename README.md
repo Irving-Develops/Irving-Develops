@@ -34,8 +34,7 @@ Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         19 mins         ███████████████░░░░░░░░░░   59.61 %
-JavaScript   13 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
